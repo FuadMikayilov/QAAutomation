@@ -1,0 +1,8 @@
+C:\Users\Fuad Pc\Desktop\Task\Task\obj\Debug\Task.csproj.AssemblyReference.cache
+C:\Users\Fuad Pc\Desktop\Task\Task\obj\Debug\Task.csproj.SuggestedBindingRedirects.cache
+C:\Users\Fuad Pc\Desktop\Task\Task\obj\Debug\Task.csproj.CoreCompileInputs.cache
+C:\Users\Fuad Pc\Desktop\Task\Task\bin\Debug\Task.exe.config
+C:\Users\Fuad Pc\Desktop\Task\Task\bin\Debug\Task.exe
+C:\Users\Fuad Pc\Desktop\Task\Task\bin\Debug\Task.pdb
+C:\Users\Fuad Pc\Desktop\Task\Task\obj\Debug\Task.exe
+C:\Users\Fuad Pc\Desktop\Task\Task\obj\Debug\Task.pdb
